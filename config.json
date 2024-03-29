@@ -18,10 +18,10 @@
   },
   "commandDisabled": [],
   "eventDisabled": [],
-  "BOTNAME": "Bot",
-  "PREFIX": "?",
+  "BOTNAME": "makathie fukiko",
+  "PREFIX": "!",
   "ADMINBOT": [
-    "YOUR_FB_UID",
+    "100074838887305",
     "OTHER_FB_UID"
   ],
   "DESIGN": {
